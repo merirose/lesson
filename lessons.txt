@@ -1,0 +1,8 @@
+map, filter, produce
+
+max number of constructyor
+super, pde isa lang ung hindi maaccess
+
+ano ung nsa result nung babel? for example ecma 5?
+
+http://sdras.github.io/object-explorer
